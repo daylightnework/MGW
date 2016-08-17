@@ -1,0 +1,8 @@
+{
+	"version":1,
+	"v1":"https://raw.githubusercontent.com/daylightnework/MGW/master/root_uImage_new4300",
+	"size1":7116181
+	
+}
+
+
