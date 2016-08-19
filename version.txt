@@ -1,9 +1,0 @@
-{
-	"version":2,
-	"v1":"https://raw.githubusercontent.com/daylightnework/MGW/master/root_uImage_new4300_v1",
-	"size1":7292543,
-	"v1":"https://raw.githubusercontent.com/daylightnework/MGW/master/root_uImage_new4300_v2",
-	"size1":7292596	
-
-}
-
