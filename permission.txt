@@ -1,0 +1,7 @@
+{
+	"test":	[{
+		"permission" : "disable",
+		"request":"yes"
+		}]
+}
+
