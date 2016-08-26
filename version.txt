@@ -1,0 +1,23 @@
+{
+	"version":4,
+	"v1":[{
+		"url":"https://raw.githubusercontent.com/daylightnework/MGW/master/root_uImage_new4300_v1",
+		"size":7292543
+	}],
+	"v2":[{
+		"url":"https://raw.githubusercontent.com/daylightnework/MGW/master/root_uImage_new4300_v2",
+		"size":7292596
+	}],
+	"v3":[{
+		"url":"https://raw.githubusercontent.com/daylightnework/MGW/master/root_uImage_new4300_v2",
+		"size":7295321
+	}],
+	"v4":[{
+		"url":"https://raw.githubusercontent.com/daylightnework/MGW/master/root_uImage_new4300_v2",
+		"size":7294814
+	}]
+
+
+
+
+}
